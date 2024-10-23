@@ -16,6 +16,6 @@ The 42 piscine is an intensive coding bootcamp designed to teach programming fun
 
 It was really tough, but I've made it through! 💪 It is amazing how much you can learn in such a short period of time if you try hard enough. 
 
-Btw, these were my exam grades: 📊  
+Btw, these were my exam grades (I didn't manage to log in time for exam00): 📊  
 ![image](https://github.com/user-attachments/assets/8dd0adb9-563b-4551-9065-47f8db1909bb)
 
