@@ -12,8 +12,10 @@ The 42 piscine is an intensive coding bootcamp designed to teach programming fun
 - Makefile ⚙️
 - Git 🌐
 
-## Outro
+## Outro 🌟
 
-It was really tough but I've made it through. It is amazing how much you can learn in such a short period of time if you try hard enough. 
-Btw, these where my exam grades: 
+It was really tough, but I've made it through! 💪 It is amazing how much you can learn in such a short period of time if you try hard enough. 
+
+Btw, these were my exam grades: 📊  
 ![image](https://github.com/user-attachments/assets/8dd0adb9-563b-4551-9065-47f8db1909bb)
+
